@@ -12,5 +12,5 @@ Outside of the lab, you'll find me exploring decentralized protocols, conducting
 -   **Secure Code Auditing & Remediations**
 
 ### Connect with me:
--   [LinkedIn](https://linkedin.com/in/umehani)
+-   [LinkedIn](https://linkedin.com/)
 -   [HackerOne (0xUmeHani)](https://hackerone.com/0xumehani)
