@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**0xUmeHani/0xUmeHani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ume Hani, a dual-focused security researcher and web developer.
 
-Here are some ideas to get you started:
+I focus on the intersection of building robust, clean web applications and uncovering high-impact, manual application logic flaws (AppSec/Bug Bounty).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of the lab, you'll find me exploring decentralized protocols, conducting deep-dive source code analysis, or improving my Node.js and TypeScript skills. I believe to truly secure an application, you have to know how to build it from the first line.
+
+### Key Methodologies & Practice areas:
+-   **Manual Vulnerability Research (OWASP Top 10)**
+-   **Logical Exploit Development**
+-   **Secure Code Auditing & Remediations**
+
+### Connect with me:
+-   [LinkedIn](https://linkedin.com/in/umehani)
+-   [HackerOne (0xUmeHani)](https://hackerone.com/0xumehani)
